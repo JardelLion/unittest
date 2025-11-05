@@ -1,5 +1,5 @@
 import unittest
-from fixtures.main import UserManager
+from main import UserManager
 
 
 class TestUserManager(unittest.TestCase):
